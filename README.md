@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am a student at the Lazaro Cardenas Federal High School and I am enthusiastic about learning and researching these kinds of topics. 👋
 
 <!--
 **SamuelHernandez030605/SamuelHernandez030605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
